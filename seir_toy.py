@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from scipy import optimize
 from scipy import integrate
 plt.style.use('fivethirtyeight')
 
